@@ -1,2 +1,2 @@
 # Safely_DB
-Database for out Application safely
+Database for our Application safely
